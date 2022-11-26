@@ -1,0 +1,6 @@
+flask
+ibm_db
+pandas
+linkedin_api
+sendgrid
+Flask-Mail
